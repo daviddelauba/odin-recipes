@@ -1,0 +1,40 @@
+h1 {
+  font-size: 3vw;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 2.3vw;
+}
+
+h3, h4 {
+  font-size: 2vw;
+}
+
+p, li, a {
+  font-size: 1.5vw;
+}
+
+.rimg {
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  text-align: left;
+
+}
+
+* {
+  font-family: "Helvetica", "Verdana", sans-serif;
+  text-align: center;
+}
