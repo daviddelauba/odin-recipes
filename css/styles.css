@@ -11,7 +11,7 @@ h3, h4 {
   font-size: 2vw;
 }
 
-p, li, a {
+p, a {
   font-size: 1.5vw;
 }
 
@@ -31,7 +31,7 @@ ul {
 
 li {
   text-align: left;
-
+  font-size: 1.5vw;
 }
 
 * {
